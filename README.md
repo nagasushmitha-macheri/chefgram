@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# chefgram
+A photo sharing application for chefs and foodies. A full stack cloud application built with React, GraphQL and AWS Amplify.
+>>>>>>> 9215b7a131ea59efbb781efb5a4726c174f4205d
